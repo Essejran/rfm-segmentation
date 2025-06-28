@@ -6,7 +6,6 @@ This project demonstrates how to apply RFM (Recency, Frequency, Monetary) segmen
 
 ## 🎯 Business Objective
 
-MetaFlow, a Berlin-based health shake e-commerce company, wants to:
 - Identify high-value customers (VIPs)
 - Detect churn risks early
 - Improve marketing ROI through targeted segmentation
