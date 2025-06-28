@@ -57,12 +57,12 @@ Each customer receives a score from 1 (lowest) to 4 (highest) in each category. 
 
 ## 📂 Project Structure
 
-.
-├── data/
-│ └── transactions.csv
-├── notebooks/
-│ └── rfm_analysis.ipynb
-├── requirements.txt
+.  
+├── data/  
+│ └── transactions.csv  
+├── notebooks/  
+│ └── rfm_analysis.ipynb  
+├── requirements.txt  
 └── README.md
 
 
