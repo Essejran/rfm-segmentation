@@ -1,3 +1,11 @@
+ ![Customer Segment Distribution](assets/segment_distribution.png)
+
+
+ ![Static Badge](https://img.shields.io/badge/Python-3.13.5-yellow)
+ ![Static Badge](https://img.shields.io/badge/pandas-2.3.0-pink)
+ ![Static Badge](https://img.shields.io/badge/matplotlib-3.10.3-skyblue)
+ ![Static Badge](https://img.shields.io/badge/seaborn-0.13.2-navy)
+
 # 🧺 RFM Segmentation for Customer Analytics
 
 This project demonstrates how to apply RFM (Recency, Frequency, Monetary) segmentation to e-commerce customer data to support personalized marketing strategies and improve customer retention.
